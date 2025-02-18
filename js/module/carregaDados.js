@@ -1,11 +1,11 @@
 /******************************************************************************
- * Objetivo: Manipular dados de um array de personagens do anime Demon Slayer, utilizando conceito de API
+ * Objetivo: Manipular dados de um array de personagens do desenho Rick and Morty, utilizando conceito de API
  * Data: 25/10/2024
  * Autor: Victor Nobrega
  * Versão: 1.0
  ******************************************************************************/
 
-import { characters } from './personagens.js'
+
 
 // Retornar os personagens
 
